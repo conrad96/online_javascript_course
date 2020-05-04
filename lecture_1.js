@@ -16,4 +16,5 @@ x.sayHi = function() {
 }
 
 //console.log(x);
-console.log( x.sayHi() );
+//console.log( x.sayHi() );
+console.log(x.firstName);
